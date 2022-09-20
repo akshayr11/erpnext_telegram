@@ -76,7 +76,7 @@ In Erpnext Telegram Integration
 
 ## SMS Notifications:
 
-in Extra Notifications:
+in Extra Notifications: 
 
 1. Go to → SMS Settings and set it up as [here](https://docs.erpnext.com/docs/user/manual/en/setting-up/sms-setting).
 
