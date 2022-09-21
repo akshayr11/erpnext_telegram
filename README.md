@@ -34,7 +34,7 @@ Telegram Integration and Extra Notifications For Frappe & Erpnext to sending fas
 
 5. `bench restart`
 
-6. Create a new Telegram bot in `BotFather`
+6. Create a new Telegram bot in `BotFather` 
 
    For more reference :
 
